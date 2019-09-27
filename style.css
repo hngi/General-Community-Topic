@@ -1,0 +1,33 @@
+
+
+li{
+	border-bottom: 1px solid #00AEFF;
+	list-style-type:none;
+	padding: 10px 16px;
+	display: flex;
+   justify-content :space-between;
+}
+
+
+ul{
+	width:380px;
+	border-style: solid;
+	padding: 0;
+	border-color: #00AEFF;
+	margin: 0 auto;
+}
+
+input[type="radio"]{
+	border-color :(#00AEFF);
+	text-align: vertical;
+
+}
+
+
+h1{
+	text-align: center;
+	color: #00AEFF
+}
+
+
+
